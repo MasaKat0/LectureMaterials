@@ -10,9 +10,14 @@
 ### 因果推論
 
 
+### 差分の差推定量
+1. [Double/debiased machine learning](https://speakerdeck.com/masakat0/dmlniyoruchai-fen-falsechai-tui-ding)
+
+
 ### 多腕バンディット問題
 
 ### 統計的学習理論
+1. [良性の過適合](https://speakerdeck.com/masakat0/liang-xing-falseguo-shi-he)
 
 
 
