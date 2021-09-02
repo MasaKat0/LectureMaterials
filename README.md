@@ -9,8 +9,14 @@
 
 ### 因果推論
 
+#### 異質性のもとでの処置効果予測
+1. OLS法
+2. BART
+3. 因果フォレスト
+4. 
 
-### 差分の差推定量
+
+#### 差分の差推定量
 1. [Double/debiased machine learning](https://speakerdeck.com/masakat0/dmlniyoruchai-fen-falsechai-tui-ding)
 
 
